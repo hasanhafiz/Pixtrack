@@ -18,7 +18,7 @@
 ### View order using infolist
 ![PixTrack](public/screenshots/05_order_view.png)
 
-### See Order Confirmation Template. It will send after creating a new order
+### Order Confirmation Template. It will send after creating a new order
 ![PixTrack](public/screenshots/06_order_confirmation.png)
 
 ### Update order status 
@@ -32,3 +32,6 @@
 
 ### Production Listing page
 ![PixTrack](public/screenshots/10_view_productions.png)
+
+### Roles
+![PixTrack](public/screenshots/11_roles.png)
