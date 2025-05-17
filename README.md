@@ -1,5 +1,13 @@
 # PixTrack — Automated  image ordering, processing, invoicing task
 
+## Technology Used
+- **PHP >= 8.1**
+- **Laravel 11**
+- **MySQL**
+- **TALL Stack (TailwindCSS, AlpineJS, Livewire, Laravel)**
+- **Filament PHP v3**
+
+
 ## Screenshots
 
 
